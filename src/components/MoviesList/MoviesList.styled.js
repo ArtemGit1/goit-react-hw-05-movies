@@ -18,13 +18,13 @@ export const Item = styled.li`
 export const Title = styled.p`
   font-size: 18px;
   margin-top: 12px;
-  color: #fff; /* White text color */
+  color: #fff;
   font-weight: 700;
   text-align: center;
-  background-color: #2c3e50; /* Dark background color */
+  background-color: #2c3e50;
   padding: 8px;
   border-radius: 8px;
-  border: 2px solid #3498db; /* Light border color */
+  border: 2px solid #3498db;
 `;
 
 export const Img = styled.img`
